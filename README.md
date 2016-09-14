@@ -1,3 +1,3 @@
 # Random-BBQ
 
-## Random Sancks for goods BBQs
+## Random Snacks for goods BBQs
