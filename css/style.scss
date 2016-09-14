@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "Beach";
+  src: url("../fonts/Beach.otf");
+}
+
+body{
+    font-family: "Beach";
+    background: #fccfd1
+}
+
+.button{
+    background: #fff;
+    width: auto;
+    padding: 11px;
+    vertical-align: middle;
+    border-radius: 12px;
+    outline: 0;
+}
+
+.random__bbq{
+    text-align: center;
+    .random__bbq--header{
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .random__bbq--text{
+        font-weight: 300;
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+
